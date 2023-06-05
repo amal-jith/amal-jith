@@ -23,6 +23,6 @@ I'm Amaljith.  A Mechanical Engineer turned Developer who is passionate on codin
 
 ## Get in touch :
 
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/amaljith-am/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amaljith-am/)
 
 
