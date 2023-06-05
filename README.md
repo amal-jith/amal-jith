@@ -12,7 +12,12 @@
 I'm Amaljith.  A Mechanical Engineer turned Developer who is passionate on coding, especially development - passionate on learning new areas of coding, enhance my career. I had done few projects, which includes back-end and front-end technologies. I constatntly molding up my coding skills to earn a career as a Python Developer
 
 
+## My projects
 
+<h3 align="left">Wayne Bankings Co.</h3>
+<p align="left">
+![Untitled design](https://github.com/amal-jith/amal-jith/assets/123450863/8a52a1bd-6eb4-475e-8052-6fb8d2ee4665)
+</p>
 
 - 👨‍💻 All of my projects are available at [https://amalportfolio98.web.app/](https://amalportfolio98.web.app/)
 
