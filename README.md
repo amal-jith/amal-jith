@@ -20,7 +20,7 @@ Recently, updated ToDo app with LogIn, LogOut and user registration
 
 
 
- 👨‍💻 Want to know about me? Here is my [Portfolio](https://amalportfolio98.web.app/)
+ 👨‍💻 My favourite projects recently worked on, here is my [Portfolio](https://amalportfolio98.web.app/)
 
 ## Get in touch :
 
