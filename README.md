@@ -13,10 +13,10 @@ I'm Amaljith,  a Mechanical Engineer turned Developer who is passionate on codin
 
 - Wayne Bankings Co.
 - The Techkart.COM
-- ToDo App
+- ToDoist App
 - Movie App
 
-Recently, updated ToDo app with LogIn, LogOut and user registration
+
 
 
 
