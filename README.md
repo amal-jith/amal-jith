@@ -20,7 +20,7 @@ I'm Amaljith,  a Mechanical Engineer turned Developer who is passionate on codin
 
 
 
- 👨‍💻 My favourite projects are here in my [Portfolio](https://amalportfolio98.web.app/) . Take a look at those.
+ 👨‍💻 My favourite projects are here in my [Portfolio](https://amalportfolio98.web.app/) . Take a look.
 
 ## Get in touch :
 
