@@ -9,12 +9,14 @@
 
 I'm Amaljith,  a Mechanical Engineer turned Developer who is passionate on coding, especially development - passionate on learning new areas of coding, enhance my career. I had done few projects, which includes back-end and front-end technologies. I constatntly molding up my coding skills to earn a career as a Python Developer
 
-## My projects
+## My Internship projects
 
-- Wayne Bankings Co.
-- The Techkart.COM
-- ToDoist App
+- Wayne Bankings Co. ( A banking website )
+- The Techkart.COM ( E-Commerce website )
+- ToDo App
 - Movie App
+
+Recently, modified todo app with user login, logout and registration features.
 
 
 
