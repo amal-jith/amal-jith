@@ -27,4 +27,5 @@ Recently, modified todo app with user login, logout and registration features.
 ## Get in touch :
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amaljith-am/)
+- 🔗 [freeCodeCamp](https://www.freecodecamp.org/amal_jith)
 
