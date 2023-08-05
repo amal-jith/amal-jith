@@ -18,7 +18,7 @@ I'm Amaljith,  a Mechanical Engineer turned Developer who is passionate on codin
 
 Recently, modified todo app with user login, logout and registration features.
 
-## Projects done for my self-learning
+## My Projects for self-learning
 
 - ToDoist ( A Todo app with user registration, login, logout authentication features )
 - Geekzon ( Ecommerce website with payment feature )
