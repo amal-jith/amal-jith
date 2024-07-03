@@ -7,26 +7,29 @@
 
 ## About me
 
-I'm Amaljith,  a Mechanical Engineer turned Developer who is passionate on coding, especially development - passionate on learning new areas of coding, enhance my career. I had done few projects, which includes back-end and front-end technologies. I constatntly molding up my coding skills to earn a career as a Python Developer
+I'm Amaljith, a Mechanical Engineer turned Developer with a passion for coding and development. I'm dedicated to learning new areas of coding to enhance my career, constantly honing my skills to excel as a Python Developer. I have experience in both back-end and front-end technologies and have completed various projects showcasing my abilities.
 
-## My Internship projects
+## Projects for Clients
+I have developed websites for:
 
-- Wayne Bankings Co. ( A banking website )
-- The Techkart.COM ( E-Commerce website )
-- ToDo App
-- Movie App
-
-Recently, modified todo app with user login, logout and registration features.
+- An interior design studio
+- A dental clinic
+- A non-profit organization
+- An educational consultancy
+- Builders and developers
 
 ## My Projects for self-learning
 
 - ToDoist ( A Todo app with user registration, login, logout authentication features )
 - Geekzon ( Ecommerce website with payment feature )
 
+## Current Role
+
+I am currently working as a Python Django Full Stack Web Developer, handling projects for clients that involve both front-end and back-end technologies. 
 
 
 
- 👨‍💻 My favourite projects are here in my [Portfolio](https://amalportfolio98.web.app/) . Take a look.
+ 👨‍💻 My favourite projects are here in my [Portfolio](https://amaljith-portfolio.onrender.com/) . Take a look.
 
 ## Get in touch :
 
